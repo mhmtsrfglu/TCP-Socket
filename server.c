@@ -1,4 +1,4 @@
-//Mehmet Şerefoğlu - 201611688, Bilge Nas - 201411042, Muhammed Turğut - 201611691
+//Mehmet Şerefoğlu - https://github.com/mhmtsrfglu
 //99 means, room is empty
 
 #include <ctype.h>
