@@ -1,4 +1,4 @@
-# TCP Socket
+# Multiple TCP Sockets
 TCP Socket Chat Room Application with C
 
 There are 5 room and each room can have 2 person.
